@@ -1,0 +1,62 @@
+
+*{
+	margin:0;
+	padding: 0;
+}
+div{
+	float: left;
+	margin: 30px;
+}
+div img{
+	width: 800px;
+	height: 700px;
+}
+
+div form label{
+	margin: 0;
+}
+div form input#name{
+	width: 450px;
+	padding: 4px;
+}
+.sign-in{
+	width: 450px;
+	border-color: orange;
+	background-color: orange;
+	padding: 5px;
+	color: #fff;
+}
+.sign-in:hover{
+	background-color: #fff;
+	color: black;
+}
+ div a {
+ 	text-decoration: none;
+ }
+ .fa-facebook{
+ 	color: #3B5998;
+ 	font-size: 20px;
+ }
+ #fb{
+ 	color: #3B5998;
+ }
+ .fa-google{
+ 	background-image: conic-gradient(
+ 		from -30deg at 40% 50%,#EA4335 0deg, #EA4335 90deg, #4285F4 90deg, #4285F4 180deg, #34A853 180deg, #34A853 270deg, #FBBC05 270deg, #FBBC05 360deg);
+ 	background-clip: text;
+ 	-webkit-background-clip: text;
+ 	color: transparent;
+ }
+ #li{
+ 	color: #0E76A8;
+ }
+.fa-linkedin{
+	color: #0072b1;
+	font-size: 17px;
+}
+a:hover {
+	color: #000;
+}
+    
+	
+
